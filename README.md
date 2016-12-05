@@ -1,7 +1,7 @@
 
 
 # mysql-xml
-dynamic query injection for node.js (Private test module)
+dynamic query injection for Node.js (Private test module)
 
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-  "name": "mysql-xml-comp",
+  "name": "mysql-xml",
   "version": "0.0.1",
   "description": "dynamic query injection for node.js",
   "main": "index.js",
