@@ -1,13 +1,28 @@
 {
   "name": "mysql-xml-comp",
   "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "./lib/pool.js"
+  "description": "dynamic query injection for node.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
   },
   "dependencies": {
-	"xml2js" : "0.4.17",
-	"mysql" : "2.10.2",
-	"promise" : "7.1.1"
-  }
+    "mysql": "2.10.2",
+    "xml2js": "0.4.17",
+    "promise": "7.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dikey-Kim/mysql-xml-comp.git"
+  },
+  "author": "dikey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dikey-Kim/mysql-xml-comp/issues"
+  },
+  "homepage": "https://github.com/Dikey-Kim/mysql-xml-comp#readme"
 }
