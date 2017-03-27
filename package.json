@@ -1,8 +1,8 @@
 {
   "name": "mysql-xml",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "dynamic query injection for node.js",
-  "main": "ib/pool.js",
+  "main": "lib/pool.js",
   "directories": {
     "test": "test"
   },
